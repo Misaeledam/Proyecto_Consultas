@@ -1,0 +1,5 @@
+npm init -y //para crear el proyecto en node
+
+npm install express mssql cors //para instalar las dependencias necesarias
+
+

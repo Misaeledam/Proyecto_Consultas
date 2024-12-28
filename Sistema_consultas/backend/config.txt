@@ -1,0 +1,6 @@
+user=sa
+password=Sqlfarmashop12345
+server=45.169.112.150
+database=farmaShop
+encrypt=false
+trustServerCertificate=true
